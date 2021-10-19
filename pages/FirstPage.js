@@ -32,8 +32,7 @@ const FirstPage = () => {
 const Industries = [
   {
 
-  }https://github.com/punitdiwan/ca-website.git
-
+  } 
 ]
 
   return (
